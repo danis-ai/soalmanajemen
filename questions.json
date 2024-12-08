@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Definisi Organisasi adalah ...",
+        "choices": [
+            "sebagai sekelompok orang yang bekerja sama, berkoordinasi, untuk mencapai tujuan tertentu",
+            "sebagian orang yang bekerja untuk tujuan tertentu",
+            "bersifat bisnis dengan tujuan tertentu",
+            "sebagai perusahaan yang bersifat bisnis dengan tujuan mencari keuntungan sebesar-besarnya"
+        ],
+        "answer": "sebagai sekelompok orang yang bekerja sama, berkoordinasi, untuk mencapai tujuan tertentu"
+    },
+    {
+        "question": "Manajemen adalah suatu proses dimana suatu kelompok orang bekerja sama mengarahkan orang lainnya untuk bekerja mencapai tujuan yang sama, hal ini dikemukakan oleh ...",
+        "choices": [
+            "Massie dan Douglas",
+            "Kreitner",
+            "Koontz dan O’Donnel",
+            "Donnely, Gibson, dan Ivancevich"
+        ],
+        "answer": "Koontz dan O’Donnel"
+    },
+    {
+        "question": "Contoh organisasi terstruktur yang ketat adalah ...",
+        "choices": [
+            "kegiatan RT (Rumah Tangga)",
+            "RW (Rukun Warga)",
+            "Koperasi",
+            "Organisasi militer"
+        ],
+        "answer": "Organisasi militer"
+    },
+    {
+        "question": "Proses manajemen mencakup kegiatan .....",
+        "choices": [
+            "pengorganisasian, perencanaan, pengarahan, dan pengendalian",
+            "perencanaan, pengorganisasian, pengarahan, dan pengendalian",
+            "perencanaan, pengorganisasian, pengendalian dan pengarahan",
+            "pengarahan, perencanaan, pengorganisasian, dan pengendalian"
+        ],
+        "answer": "perencanaan, pengorganisasian, pengarahan, dan pengendalian"
+    },
+    {
+        "question": "Tugas manajemen puncak adalah …",
+        "choices": [
+            "menentukan tujuan, strategi, dan kebijakan perusahaan secara umum, yang kemudian akan diterjemahkan lebih spesifik oleh manajer di bawahnya",
+            "melaksanakan tujuan, strategi, dan kebijakan yang telah ditetapkan oleh manajer puncak serta mengkoordinasikan dan mengarahkan aktivitas manajer tingkat bawah dan juga karyawan",
+            "mengawasi dan mengkoordinasi kegiatan operasional yang dilakukan oleh karyawan",
+            "bertanggung jawab mengawasi unit tertentu yang mempunyai beberapa bidang sekaligus"
+        ],
+        "answer": "menentukan tujuan, strategi, dan kebijakan perusahaan secara umum, yang kemudian akan diterjemahkan lebih spesifik oleh manajer di bawahnya"
+    },
+    {
+        "question": "Berikut ini adalah yang termasuk dalam aliran manajemen klasik, kecuali",
+        "choices": [
+            "Henry Fayol",
+            "Max Weber",
+            "Adam Smith",
+            "Mary Parker Follet"
+        ],
+        "answer": "Adam Smith"
+    },
+    {
+        "question": "Lima kekuatan kompetisi bagi perusahaan untuk mencari keuntungan yang dikembangkan oleh Michael Porter adalah ...",
+        "choices": [
+            "ancaman pendatang baru atau halangan untuk masuk, produk substitusi, pemasok, pembeli, pesaing",
+            "ancaman pendatang baru atau halangan untuk masuk, produk, pemasok, pembeli, pesaing",
+            "ancaman pendatang baru, produk substitusi, pemasok, pembeli, pesaing",
+            "ancaman dari luar, produk substitusi, pemasok, pembeli, pesaing"
+        ],
+        "answer": "ancaman pendatang baru atau halangan untuk masuk, produk substitusi, pemasok, pembeli, pesaing"
+    },
+    {
+        "question": "Ada empat wilayah pengukuran tujuan sosial, dimana untuk setiap wilayah diperlukan pengukuran yang lebih spesifik, salah satunya adalah wilayah ekonomi. Yang dimaksud dengan wilayah ekonomi adalah ...",
+        "choices": [
+            "pengukuran dilakukan apakah organisasi melaksanakan tugas ekonomi yang dasar",
+            "pengukuran dilakukan untuk melihat apakah organisasi meningkatkan kualitas hidup secara umum",
+            "pengukuran dilakukan untuk melihat sejauh mana investasi sumberdaya (uang dan manusia) dilakukan organisasi untuk membantu persoalan yang dihadapi komunitas, seperti pendidikan, pengajian, dan sebagainya",
+            "pengukuran dalam wilayah ini ingin melihat sejauh mana organisasi berhasil memecahkan masalah sosial, bukannya mengatasi gejala-gejala yang muncul."
+        ],
+        "answer": "pengukuran dilakukan apakah organisasi melaksanakan tugas ekonomi yang dasar"
+    },
+    {
+        "question": "Berikut ini adalah jenis r encana sekali pakai dalam perencanaan operasional, kecuali …",
+        "choices": [
+            "program",
+            "proyek",
+            "anggaran",
+            "kebijakan"
+        ],
+        "answer": "kebijakan"
+    },
+    {
+        "question": "Salah satu implementasi strategi adalah model S7 yaitu Strategi (Strategy), Struktur (Structure), Sistem (Systems), Tujuan atau misi organisasi (Superordinate Goals), Kemampuan atau keterampilan (Skills), Staf (Staff), Pola perilaku atau pengambilan keputusan (Style). Model ini dikembangkan oleh ...",
+        "choices": [
+            "Thomas J. Peters dan Robert H. Waterman",
+            "Massie dan Douglas",
+            "Koontz dan O’Donnel",
+            "Donnely, Gibson, dan Ivancevich"
+        ],
+        "answer": "Thomas J. Peters dan Robert H. Waterman"
+    },
+    {
+        "question": "Salah satu faktor yang menghalangi pengambilan keputusan yang efektif adalah manajer cenderung tidak bersedia bertindak, setelah tahu konsekuensi tidak bertindak tidak terlalu besar. Hal ini disebut",
+        "choices": [
+            "relaxed change",
+            "defensive avoidance",
+            "relaxed Avoidance",
+            "panik"
+        ],
+        "answer": "relaxed Avoidance"
+    },
+    {
+        "question": "Berikut ini adalah keuntungan dari keputusan kelompok, kecuali …",
+        "choices": [
+            "Informasi dan pengetahuan lebih banyak",
+            "Lebih banyak alternatif yang dapat dihasilkan",
+            "Penerimaan terhadap hasil akhir akan lebih besar",
+            "Waktu yang lebih lama dan biaya lebih besar karena waktu yang hilang lebih banyak"
+        ],
+        "answer": "Waktu yang lebih lama dan biaya lebih besar karena waktu yang hilang lebih banyak"
+    },
+    {
+        "question": "Promosi mempengaruhi penjualan, tetapi dalam menetapkan promosi, perusahaan menggunakan target penjualan di masa mendatang. Dengan kata lain, penjualan juga dipengaruhi oleh promosi. Metode statistik yang sesuai untuk memecahkan persoalan di atas adalah ...",
+        "choices": [
+            "Jury of Executive Opinion Method",
+            "Sales-force-composition",
+            "Gantt chart",
+            "Penghalusan Eksponensial"
+        ],
+        "answer": "Penghalusan Eksponensial"
+    },
+    {
+        "question": "Berikut ini adalah yang termasuk dalam karakteristik organisasi birokrasi, kecuali …",
+        "choices": [
+            "pembagian kerja yang jelas (spesialisasi), dan setiap posisi diisi oleh orang yang memang ahli di bidang tersebut",
+            "seperangkat aturan yang konsisten dan jelas untuk menjamin keseragaman tugas",
+            "manajer dengan gaya tradisional (birokrasi) cenderung kurang efektif dibandingkan dengan manajer yang mendorong karyawannya dengan pendekatan manusiawi (menghargai kerja, mendorong tim kerja)",
+            "karir dalam organisasi didasarkan pada prestasi dan keahlian. Karyawan tidak boleh diperlakukan secara tidak adil"
+        ],
+        "answer": "manajer dengan gaya tradisional (birokrasi) cenderung kurang efektif dibandingkan dengan manajer yang mendorong karyawannya dengan pendekatan manusiawi (menghargai kerja, mendorong tim kerja)"
+    },
+    {
+        "question": "Tom Burns dan G.M. Stalker, dua peneliti dari Inggris, melalui buku mereka The Management of Information (1961), melihat kaitan antara elemen lingkungan dengan desain organisasi dan mereka membedakan dua jenis organisasi yaitu mekanistis dan organis. Berikut ini termasuk dalam Model Mekanis, kecuali …",
+        "choices": [
+            "pekerjaan sangat spesialis; sangat sedikit penjelasan terhadap hubungan antara pekerjaan dengan tujuan organisasi",
+            "pekerjaan ditetapkan secara kaku. Hanya dirubah secara formal oleh manajemen puncak organisasi",
+            "definisi peranan cukup spesifik (hak, kewajiban, dan metode kerja untuk setiap anggota)",
+            "pekerjaan saling tergantung. Penekanan pada relevansi pekerjaan dan tujuan organisasi"
+        ],
+        "answer": "pekerjaan saling tergantung. Penekanan pada relevansi pekerjaan dan tujuan organisasi"
+    },
+    {
+        "question": "Organisasi matriks pertama kali dikembangkan oleh industri luar angkasa, yaitu negara ...",
+        "choices": [
+            "Inggris",
+            "Amerika Serikat",
+            "Indonesia",
+            "Jerman"
+        ],
+        "answer": "Amerika Serikat"
+    },
+    {
+        "question": "Berikut adalah tahapan dalam perencanaan sumber daya manusia, kecuali …",
+        "choices": [
+            "memperkirakan kebutuhan tenaga kerja organisasi masa mendatang, meliputi jumlah (kuantitas) dan kualitas",
+            "merencanakan rekrutmen dan pemberhentian/pensiun kerja",
+            "merencanakan pelatihan dan pengembangan tenaga kerja",
+            "evaluasi latar belakang calon tenaga kerja"
+        ],
+        "answer": "evaluasi latar belakang calon tenaga kerja"
+    },
+    {
+        "question": "Salah satu sumber penolakan adalah …",
+        "choices": [
+            "ketidakpastian",
+            "partisipasi dan keterlibatan",
+            "penerangan dan komunikasi",
+            "negosiasi dan perjanjian"
+        ],
+        "answer": "ketidakpastian"
+    },
+    {
+        "question": "Metode yang bertujuan meningkatkan kejelasan individu dalam berkomunikasi adalah ...",
+        "choices": [
+            "training sensitivitas",
+            "analisis transaksi",
+            "membangun tim",
+            "konsultasi proses"
+        ],
+        "answer": "analisis transaksi"
+    },
+    {
+        "question": "Proses dimana penerima menerjemahkan atau mengartikan pesan yang diterima, disebut …",
+        "choices": [
+            "encoding",
+            "decoding",
+            "pesan",
+            "media komunikasi"
+        ],
+        "answer": "decoding"
+    },
+    {
+        "question": "Ciri-ciri orang yang mempunyai need for achievement yang tinggi menurut McClelland, kecuali …",
+        "choices": [
+            "suka mengambil tanggung jawab untuk menyelesaikan suatu persoalan",
+            "suka menetapkan tanggungjawab yang moderat, tidak terlalu tinggi, dan juga tidak terlalu rendah",
+            "suka feed-back yang cepat karena dengan feed-back tersebut akan diperoleh evaluasi mengenai pekerjaannya, dan sekaligus melihat apakah dapat perbaikan atau tidak",
+            "suka berprestasi, menurutnya program pendidikan akan membantu dalam meningkatkan kebutuhannya berprestasi"
+        ],
+        "answer": "suka berprestasi, menurutnya program pendidikan akan membantu dalam meningkatkan kebutuhannya berprestasi"
+    },
+    {
+        "question": "Motivasi seseorang akan tergantung pada antisipasi hasil dari tindakannya (dapat negatif atau positif) dikalikan dengan kekuatan pengharapan orang tersebut bahwa hasil yang diperoleh akan menghasilkan sesuatu yang dia inginkan, hal ini merupakan teori ...",
+        "choices": [
+            "Teori Pengharapan Vroom",
+            "Teori Motivasi Keadilan",
+            "Teori Penentuan Tujuan",
+            "Model Porter-Lawler"
+        ],
+        "answer": "Teori Pengharapan Vroom"
+    },
+    {
+        "question": "Konflik yang muncul karena ada perbedaan pandangan atau pendapat antar individu dalam suatu organisasi, disebut …",
+        "choices": [
+            "Konflik Interorganizational",
+            "Konflik Intergroup",
+            "Konflik Intragroup",
+            "Konflik Interpersonal"
+        ],
+        "answer": "Konflik Interpersonal"
+    },
+    {
+        "question": "Kekuasaan yang datang dari kemampuan seseorang memberikan balasan kepada orang lain yang melakukan pekerjaan tertentu, disebut ...",
+        "choices": [
+            "kekuasaan paksaan (coercive power)",
+            "kekuasaan balasan (reward power)",
+            "kekuasaan legitimasi (legitimate power)",
+            "kekuasaan kepakaran (expert power)"
+        ],
+        "answer": "kekuasaan balasan (reward power)"
+    },
+    {
+        "question": "Gaya kepemimpinan yang diajukan oleh Likert dikelompokkan ke dalam empat sistem, salah satunya adalah manajer yang memiliki tipe sangat otoriter, mempunyai kepercayaan yang rendah terhadap bawahannya, memotivasi bawahannya melalui ancaman atau hukuman, namun kadang-kadang melalui balasan (reward), komunikasi yang dilakukan satu arah (ke bawah atau top-down), dan membatasi pengambilan keputusan hanya untuk manajer. Gaya kepemimpinan ini disebut gaya kepemimpinan...",
+        "choices": [
+            "Otoriter - Eksploitatif (Exploitative - Authoritative)",
+            "Benevolent - Authoritative",
+            "Konsultatif (Consultative)",
+            "Partisipatif (Participative - Group)"
+        ],
+        "answer": "Otoriter - Eksploitatif (Exploitative - Authoritative)"
+    },
+    {
+        "question": "Salah satu gaya Keputusan dalam Model Vroom-Yetton-Jago, adalah CII, penjelasannya adalah …",
+        "choices": [
+            "Manajer membuat keputusan sendirian, berdasarkan informasi yang ada pada waktu itu",
+            "Manajer memberitahu permasalahan yang ada dengan bawahan yang relevan, dan meminta informasi dan evaluasi alternatif. Bawahan tidak bertemu sebagai suatu kelompok. Manajer mengambil keputusan sendirian, yang mungkin atau tidak mencerminkan pengaruh bawahan",
+            "Manajer dan bawahan bertemu sebagai kelompok dan mendiskusikan permasalahan yang ada. Kelompok mengambil keputusan. Manajer tidak berusaha mempengaruhi kelompok dalam pengambilan keputusan, dan bersedia melaksanakan keputusan yang diambil bersama",
+            "Manajer dan bawahan bertemu dan mendiskusikan permasalahan serta mengevaluasi alternatif pemecahan. Manajer kemudian mengambil keputusan, yang mungkin atau tidak mencerminkan pengaruh bawahan"
+        ],
+        "answer": "Manajer memberitahu permasalahan yang ada dengan bawahan yang relevan, dan meminta informasi dan evaluasi alternatif. Bawahan tidak bertemu sebagai suatu kelompok. Manajer mengambil keputusan sendirian, yang mungkin atau tidak mencerminkan pengaruh bawahan"
+    },
+    {
+        "question": "Berikut ini adalah fungsi dari kepemimpinan strategik, kecuali ...",
+        "choices": [
+            "perencanaan",
+            "pelaksanaan",
+            "pengawasan",
+            "evaluasi"
+        ],
+        "answer": "pengawasan"
+    },
+    {
+        "question": "Langkah-langkah kepemimpinan strategik adalah berikut ini, kecuali",
+        "choices": [
+            "mengevaluasi kondisi saat ini meliputi kondisi organisasi dan lingkungan",
+            "merumuskan kemana organisasi akan dibawa di masa depan, atau merumuskan visi dan misi organisasi",
+            "implementasi strategi yang telah dirumuskan",
+            "perumusan visi dan misi, kemana organisasi akan dibawa di masa mendatang"
+        ],
+        "answer": "perumusan visi dan misi, kemana organisasi akan dibawa di masa mendatang"
+    },
+    {
+        "question": "Pengawasan yang didesain untuk mendeteksi penyimpangan dari standar tertentu dan memungkinkan perbaikan dilakukan sebelum seluruh tahap kegiatan tertentu diselesaikan disebut ....",
+        "choices": [
+            "pengendalian concurrent (yes/no)",
+            "pengawasan pendahuluan (feedforward control atau steering control)",
+            "pengendalian umpan balik (post-action control)",
+            "management by exception (MBE)"
+        ],
+        "answer": "pengawasan pendahuluan (feedforward control atau steering control)"
+    },
+    {
+        "question": "Berikut ini adalah alasan sistem pengendalian kemungkinan ditolak oleh anggota organisasi, kecuali…",
+        "choices": [
+            "pengendalian yang berlebihan (overcontrol)",
+            "fokus yang tidak tepat",
+            "balasan positif untuk ketidakefisienan",
+            "mendorong partisipasi"
+        ],
+        "answer": "mendorong partisipasi"
+    },
+    {
+        "question": "Rasio untuk melihat kemampuan organisasi memenuhi kewajiban jangka panjangnya, yaitu kewajiban yang jatuh tempo lebih dari satu tahun disebut rasio …",
+        "choices": [
+            "Likuiditas",
+            "Solvabilitas",
+            "Aktivitas",
+            "Pasar"
+        ],
+        "answer": "Solvabilitas"
+    },
+    {
+        "question": "Anggaran yang merencanakan pengeluaran investasi di masa mendatang, seperti investasi pada bangunan, peralatan, dan sebagainya, disebut anggaran…",
+        "choices": [
+            "Modal",
+            "Pendanaan",
+            "Neraca",
+            "Keuangan"
+        ],
+        "answer": "Modal"
+    },
+    {
+        "question": "Efek fungsional anggaran adalah berikut ini, kecuali …",
+        "choices": [
+            "meningkatkan motivasi dan semangat kerja.",
+            "meningkatkan koordinasi organisasi.",
+            "komunikasi dan umpan balik dapat mengakibatkan ketidakpuasan manajer terhadap anggaran",
+            "sebagai alat evaluasi."
+        ],
+        "answer": "komunikasi dan umpan balik dapat mengakibatkan ketidakpuasan manajer terhadap anggaran"
+    },
+    {
+        "question": "Salah satu dari kegiatan pendukung dalam manajemen rantai nilai adalah…",
+        "choices": [
+            "manajemen rantai nilai",
+            "pemasaran dan penjualan",
+            "operasi",
+            "manajemen sumberdaya manusia"
+        ],
+        "answer": "manajemen rantai nilai"
+    },
+    {
+        "question": "Berikut ini adalah yang termasuk dalam dimensi kualitas, kecuali …",
+        "choices": [
+            "prestasi (performance), karakteristik operasional produk yang pokok, contoh kejelasan gambar televisi",
+            "tampilan (features), mendukung karakteristik fungsional dasar produk, contoh: power window untuk mobil",
+            "keterandalan (reliability), kemungkinan produk tidak berfungsi sebagaimana seharusnya (malfunction) selama periode tertentu",
+            "tidak mudah diperbaiki"
+        ],
+        "answer": "tidak mudah diperbaiki"
+    },
+    {
+        "question": "CIO adalah penghubung antara manajemen dengan informasi, sedangkan tugas dari CIO adalah …",
+        "choices": [
+            "mencakup penyiapan dan pelaksanaan prosedur dan kebijakan yang berkaitan dengan sistem informasi manajemen baik yang baru maupun yang lama",
+            "mencakup penyiapan dan pelaksanaan prosedur dan kebijakan yang berkaitan dengan sistem informasi",
+            "mencakup pelaksanaan prosedur dan kebijakan yang berkaitan dengan sistem informasi manajemen baik yang baru maupun yang lama",
+            "mencakup penyiapan dan pelaksanaan prosedur dan kebijakan yang berkaitan dengan manajemen baik yang baru maupun yang lama"
+        ],
+        "answer": "mencakup penyiapan dan pelaksanaan prosedur dan kebijakan yang berkaitan dengan sistem informasi manajemen baik yang baru maupun yang lama"
+    },
+    {
+        "question": "Keterbatasan dari sistem informasi manajemen (SIM) adalah berikut ini, kecuali ….",
+        "choices": [
+            "sistem informasi manajemen barangkali mahal dan sulit untuk dikembangkan dan diimplementasikan, khususnya apabila pengembangan sistem tersebut dilakukan secara bertahap",
+            "sistem informasi tidak selalu sesuai untuk semua tugas atau masalah",
+            "informasi yang diberikan ke manajer barangkali tidak selalu akurat, tepat waktu, lengkap, atau relevan. Input yang jelek akan menghasilkan output yang jelek juga",
+            "manajer kadangkala tidak terlalu mengandalkan sistem tersebut"
+        ],
+        "answer": "manajer kadangkala tidak terlalu mengandalkan sistem tersebut"
+    },
+    {
+        "question": "Ray Krock adalah contoh pengusaha yang sukses di Amerika dengan label ...",
+        "choices": [
+            "Ford",
+            "Amex",
+            "Microsoft",
+            "McDonald’s"
+        ],
+        "answer": "McDonald’s"
+    },
+    {
+        "question": "Inovasi yang memodifikasi produk, proses, atau teknologi, disebut inovasi …",
+        "choices": [
+            "Kecil",
+            "Radikal",
+            "Teknis",
+            "Manajerial"
+        ],
+        "answer": "Kecil"
+    },
+    {
+        "question": "Variabel yang dianggap bisa mendorong kreativitas adalah berikut ini, kecuali …",
+        "choices": [
+            "latar belakang kehidupan",
+            "kepribadian",
+            "kemampuan kognitif",
+            "verifikasi"
+        ],
+        "answer": "verifikasi"
+    }
+]
